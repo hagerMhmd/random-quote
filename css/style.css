@@ -1,0 +1,31 @@
+body
+{
+    color: black !important;
+}
+.my-container
+{
+    width: 60%;
+}
+h1
+{
+    font-family: Impact !important;
+    font-size: 80px !important;
+    margin: 0.67em 0rem !important;   
+}
+p
+{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+button
+{
+    padding: 1.5rem 5rem;
+    background-color: blue !important; 
+    margin-bottom: 2rem !important;
+    color: white;
+    transition: all 0.3s;
+}
+button:hover
+{
+    background-color: green !important; 
+}
